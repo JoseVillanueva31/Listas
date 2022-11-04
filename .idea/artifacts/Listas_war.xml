@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Listas:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Listas</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Listas-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Listas:war exploded" />
+    </root>
+  </artifact>
+</component>
